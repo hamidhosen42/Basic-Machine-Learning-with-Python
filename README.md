@@ -3,9 +3,6 @@
    1. [Machine Learning Tutorial (Bangla) | Bangla Machine Learning (ML) Tutorial for Beginners(study mart)](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
    2. Course Outline: ([Machine Learning For All With Python.pdf](https://github.com/hamidhosen42/Basic-Machine-Learning-Algorithm-with-Python/files/7080875/Machine.Learning.For.All.With.Python.pdf)
 
-## Types of Machine Learning Algorithm:
-    ![Types of Machine Learning Algorithm1](https://user-images.githubusercontent.com/68488154/131556847-d53f44d0-8d40-445e-adf5-9cfb71e70607.png)
-
 ## [Difference Between Supervised and Unsupervised Learning](https://medium.com/@hamid42/difference-between-supervised-and-unsupervised-learning-f51643aeb647):
    ### Supervised Learning:
    <img width="887" alt="Supervised Learning" src="https://user-images.githubusercontent.com/68488154/131554881-51ee1661-4625-4983-9798-fd4be5f919a9.png">
