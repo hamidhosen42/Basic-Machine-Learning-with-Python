@@ -17,10 +17,10 @@
    Unsupervised learning is a machine learning technique, where you do not need to supervise the model. Instead, you need to allow the model to work on its own to discover information. It mainly deals with the unlabelled data. Unsupervised learning algorithms allow you to perform more complex processing tasks compared to supervised learning. Although, unsupervised learning can be more unpredictable compared with other natural learning deep learning and reinforcement learning methods.
    
    ### Supervised and Unsupervised Learning Algorithm:
-<img width="771" alt="Supervised and Unsupervised Learning Algorithm" src="https://user-images.githubusercontent.com/68488154/131554785-d0055847-4788-4357-8745-0a89152f08b2.png">
+   <img width="771" alt="Supervised and Unsupervised Learning Algorithm" src="https://user-images.githubusercontent.com/68488154/131554785-d0055847-4788-4357-8745-0a89152f08b2.png">
 
 ## Performance Metrics:
- <img width="417" alt="Performance Metrics" src="https://user-images.githubusercontent.com/68488154/132079458-2ec5d7b4-d131-4e08-9190-d25d70dfa625.png">
+  <img width="417" alt="Performance Metrics" src="https://user-images.githubusercontent.com/68488154/132079458-2ec5d7b4-d131-4e08-9190-d25d70dfa625.png">
 
 ## R-Squared Value:
-<img width="632" alt="R-Squared Value" src="https://user-images.githubusercontent.com/68488154/132080071-c47681a6-eae1-4793-9d00-aeabe6e5330f.png">
+  <img width="632" alt="R-Squared Value" src="https://user-images.githubusercontent.com/68488154/132080071-c47681a6-eae1-4793-9d00-aeabe6e5330f.png">
