@@ -18,3 +18,6 @@
    
    ### Supervised and Unsupervised Learning Algorithm:
 <img width="771" alt="Supervised and Unsupervised Learning Algorithm" src="https://user-images.githubusercontent.com/68488154/131554785-d0055847-4788-4357-8745-0a89152f08b2.png">
+
+## Performance Metrics:
+ <img width="417" alt="Performance Metrics" src="https://user-images.githubusercontent.com/68488154/132079458-2ec5d7b4-d131-4e08-9190-d25d70dfa625.png">
