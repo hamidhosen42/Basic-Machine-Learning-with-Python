@@ -23,4 +23,6 @@
   <img width="417" alt="Performance Metrics" src="https://user-images.githubusercontent.com/68488154/132079458-2ec5d7b4-d131-4e08-9190-d25d70dfa625.png">
 
 ## R-Squared Value:
+   
+   R-squared is a goodness-of-fit measure for linear regression models. This statistic indicates the percentage of the variance in the dependent variable that the independent variables explain collectively. R-squared measures the strength of the relationship between your model and the dependent variable on a convenient 0 – 100% scale. Image of a large R-squared. After fitting a linear regression model, you need to determine how well the model fits the data. Does it do a good job of explaining changes in the dependent variable? There are several key goodness-of-fit statistics for regression analysis.
   <img width="632" alt="R-Squared Value" src="https://user-images.githubusercontent.com/68488154/132080071-c47681a6-eae1-4793-9d00-aeabe6e5330f.png">
