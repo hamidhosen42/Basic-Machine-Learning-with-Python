@@ -21,3 +21,6 @@
 
 ## Performance Metrics:
  <img width="417" alt="Performance Metrics" src="https://user-images.githubusercontent.com/68488154/132079458-2ec5d7b4-d131-4e08-9190-d25d70dfa625.png">
+
+## R-Squared Value:
+<img width="632" alt="R-Squared Value" src="https://user-images.githubusercontent.com/68488154/132080071-c47681a6-eae1-4793-9d00-aeabe6e5330f.png">
