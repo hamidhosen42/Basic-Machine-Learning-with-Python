@@ -30,15 +30,15 @@
 ## Feature Engineering in ML:
    
    ### Encoding Technique Types:
-   1. Without Use any encoding:
-   2. lavel encoding:
+   #### 1. Without Use any encoding:
+   #### 2. lavel encoding:
   <img width="616" alt="8-Level Encoding" src="https://user-images.githubusercontent.com/68488154/133471493-8d0024d3-915e-49c0-acb4-812cc589d516.png">
   <img width="639" alt="9-Level Encoding1" src="https://user-images.githubusercontent.com/68488154/133471538-2a2b5e58-a7fc-4b6a-adbd-96e308ac5a3c.png">
-   3. One Hot Encoding:
+   #### 3. One Hot Encoding:
    <img width="601" alt="10-One-Hot Encoding" src="https://user-images.githubusercontent.com/68488154/133471900-e76017bb-b963-4fa0-acca-17e1c0783f3c.png">
-   5. Ordinal Encoding:
+   #### 4. Ordinal Encoding:
    <img width="628" alt="11-Ordinal Encoding" src="https://user-images.githubusercontent.com/68488154/133471958-73a26580-f85c-4627-a89c-3a6c2146d312.png">
-   7. Hash Encoding:
+   #### 5. Hash Encoding:
    <img width="648" alt="12-Hashing Encoding" src="https://user-images.githubusercontent.com/68488154/133471981-03a210ee-3f76-45cd-b5f0-b4cbd26bf2e5.png">
 
      
