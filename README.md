@@ -36,5 +36,12 @@
 
   <img width="639" alt="9-Level Encoding1" src="https://user-images.githubusercontent.com/68488154/133471538-2a2b5e58-a7fc-4b6a-adbd-96e308ac5a3c.png">
 
-   3. 
+   3. One Hot Encoding:
+   <img width="601" alt="10-One-Hot Encoding" src="https://user-images.githubusercontent.com/68488154/133471900-e76017bb-b963-4fa0-acca-17e1c0783f3c.png">
+   5. Ordinal Encoding:
+   <img width="628" alt="11-Ordinal Encoding" src="https://user-images.githubusercontent.com/68488154/133471958-73a26580-f85c-4627-a89c-3a6c2146d312.png">
+
+   7. Hash Encoding:
+   <img width="648" alt="12-Hashing Encoding" src="https://user-images.githubusercontent.com/68488154/133471981-03a210ee-3f76-45cd-b5f0-b4cbd26bf2e5.png">
+
      
