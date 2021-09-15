@@ -26,3 +26,14 @@
    R-squared is a goodness-of-fit measure for linear regression models. This statistic indicates the percentage of the variance in the dependent variable that the independent variables explain collectively. R-squared measures the strength of the relationship between your model and the dependent variable on a convenient 0 – 100% scale. Image of a large R-squared. After fitting a linear regression model, you need to determine how well the model fits the data. Does it do a good job of explaining changes in the dependent variable? There are several key goodness-of-fit statistics for regression analysis.
    
   <img width="632" alt="R-Squared Value" src="https://user-images.githubusercontent.com/68488154/132080071-c47681a6-eae1-4793-9d00-aeabe6e5330f.png">
+  
+## Feature Engineering in ML:
+   
+   ### Encoding Technique Types:
+   1. Without Use any encoding:
+   2. lavel encoding:<img width="616" alt="8-Level Encoding" src="https://user-images.githubusercontent.com/68488154/133471493-8d0024d3-915e-49c0-acb4-812cc589d516.png">
+
+<img width="639" alt="9-Level Encoding1" src="https://user-images.githubusercontent.com/68488154/133471538-2a2b5e58-a7fc-4b6a-adbd-96e308ac5a3c.png">
+
+   3. 
+     
