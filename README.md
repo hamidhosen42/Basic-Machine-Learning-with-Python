@@ -31,9 +31,10 @@
    
    ### Encoding Technique Types:
    1. Without Use any encoding:
-   2. lavel encoding:<img width="616" alt="8-Level Encoding" src="https://user-images.githubusercontent.com/68488154/133471493-8d0024d3-915e-49c0-acb4-812cc589d516.png">
+   2. lavel encoding:
+  <img width="616" alt="8-Level Encoding" src="https://user-images.githubusercontent.com/68488154/133471493-8d0024d3-915e-49c0-acb4-812cc589d516.png">
 
-<img width="639" alt="9-Level Encoding1" src="https://user-images.githubusercontent.com/68488154/133471538-2a2b5e58-a7fc-4b6a-adbd-96e308ac5a3c.png">
+  <img width="639" alt="9-Level Encoding1" src="https://user-images.githubusercontent.com/68488154/133471538-2a2b5e58-a7fc-4b6a-adbd-96e308ac5a3c.png">
 
    3. 
      
