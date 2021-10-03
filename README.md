@@ -103,3 +103,5 @@ Calculate entropy for all its categorical values.
 Calculate information gain for the feature.
 Find the feature with maximum information gain.
 Repeat it until we get the desired tree.
+
+## [All About Confusion Matrix.pdf](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python/files/7272695/All.About.Confusion.Matrix.pdf)
