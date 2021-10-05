@@ -105,3 +105,21 @@ Find the feature with maximum information gain.
 Repeat it until we get the desired tree.
 
 ## [All About Confusion Matrix.pdf](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python/files/7272695/All.About.Confusion.Matrix.pdf)
+
+## Types of Regression
+   1. Linear Regression
+   2. Polynomial Regression
+   3. Logistic Regression
+   4. Quantile Regression
+   5. Ridge Regression
+   6. Lasso Regression
+   7. Elastic Net Regression
+   8. Principal Components Regression (PCR)
+   9. Partial Least Squares (PLS) Regression
+   10. Support Vector Regression
+   11. Ordinal Regression
+   12. Poisson Regression
+   13. Negative Binomial Regression
+   14. Quasi Poisson Regression
+   15. Cox Regression
+   16. Tobit Regression
