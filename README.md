@@ -132,3 +132,5 @@ Ensemble methods is a machine learning technique that combines several base mode
 ![image](https://user-images.githubusercontent.com/68488154/136642823-85231cce-6661-442d-a1a5-dd6165a73748.png)
 
 The random forest is a classification algorithm consisting of many decisions trees. It uses bagging and feature randomness when building each individual tree to try to create an uncorrelated forest of trees whose prediction by committee is more accurate than that of any individual tree.
+
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. ... For regression tasks, the mean or average prediction of the individual trees is returned.
