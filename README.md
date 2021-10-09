@@ -127,3 +127,8 @@ Repeat it until we get the desired tree.
 ## Ensemble Learning
 
 Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model . To better understand this definition lets take a step back into ultimate goal of machine learning and model building.
+
+## [Random Forest Classifier & Regressor](https://www.youtube.com/watch?v=4EOCQJgqAOY)
+![image](https://user-images.githubusercontent.com/68488154/136642823-85231cce-6661-442d-a1a5-dd6165a73748.png)
+
+The random forest is a classification algorithm consisting of many decisions trees. It uses bagging and feature randomness when building each individual tree to try to create an uncorrelated forest of trees whose prediction by committee is more accurate than that of any individual tree.
