@@ -123,3 +123,7 @@ Repeat it until we get the desired tree.
    14. Quasi Poisson Regression
    15. Cox Regression
    16. Tobit Regression
+
+## Ensemble Learning
+
+Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model . To better understand this definition lets take a step back into ultimate goal of machine learning and model building.
