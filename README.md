@@ -145,3 +145,8 @@ Feature Selection is one of the core concepts in machine learning which hugely i
    1. Reduces Overfitting: Less redundant data means less opportunity to make decisions based on noise.
    2. Improves Accuracy: Less misleading data means modeling accuracy improves.
    3· Reduces Training Time: fewer data points reduce algorithm complexity and algorithms train faster.
+
+## Feature Selection Methods:
+   1. Univariate Selection
+   2. Feature Importance ( https://youtu.be/VXv0-Hv9cT4 )
+   3. Correlation Matrix with Heatmap
