@@ -150,3 +150,8 @@ Feature Selection is one of the core concepts in machine learning which hugely i
    1. Univariate Selection
    2. Feature Importance ( https://youtu.be/VXv0-Hv9cT4 )
    3. Correlation Matrix with Heatmap
+## Feature Selection Related Important Links:
+   1. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.chi2.html#sklearn.feature_selection.chi2
+   2. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_classif.html#sklearn.feature_selection.f_classif
+   3. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html#sklearn.feature_selection.mutual_info_classif
+   4. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_regression.html#sklearn.feature_selection.f_regression
