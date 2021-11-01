@@ -138,3 +138,10 @@ The random forest is a classification algorithm consisting of many decisions tre
 Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. ... For regression tasks, the mean or average prediction of the individual trees is returned.
 
 Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. ... A Random Forest operates by constructing several decision trees during training time and outputting the mean of the classes as the prediction of all the trees
+
+
+## Feature Selection Techniques in Machine Learning with Python
+Feature Selection is one of the core concepts in machine learning which hugely impacts the performance of your model. The data features that you use to train your machine learning models have a huge influence on the performance you can achieve. How to select features and what are the Benefits of performing feature selection before modeling your data?
+   1. Reduces Overfitting: Less redundant data means less opportunity to make decisions based on noise.
+   2. Improves Accuracy: Less misleading data means modeling accuracy improves.
+   3· Reduces Training Time: fewer data points reduce algorithm complexity and algorithms train faster.
