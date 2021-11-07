@@ -155,3 +155,10 @@ Feature Selection is one of the core concepts in machine learning which hugely i
    2. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_classif.html#sklearn.feature_selection.f_classif
    3. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html#sklearn.feature_selection.mutual_info_classif
    4. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_regression.html#sklearn.feature_selection.f_regression
+## k-nearest neighbors (KNN)
+The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning algorithm that can be used to solve both classification and regression problems. It's easy to implement and understand, but has a major drawback of becoming significantly slows as the size of that data in use grows.
+   1. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+   2. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+   3. <img width="470" alt="2-" src="https://user-images.githubusercontent.com/68488154/140653966-7b3dc395-e67d-47e8-ac44-f2b899a49fac.png">
+   4. <img width="569" alt="3-" src="https://user-images.githubusercontent.com/68488154/140654023-8ba459a1-493b-43ab-b236-0aa3e6d24cfc.png">
+
