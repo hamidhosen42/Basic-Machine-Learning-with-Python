@@ -162,3 +162,5 @@ The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning
    3. <img width="470" alt="2-" src="https://user-images.githubusercontent.com/68488154/140653966-7b3dc395-e67d-47e8-ac44-f2b899a49fac.png">
    4. <img width="569" alt="3-" src="https://user-images.githubusercontent.com/68488154/140654023-8ba459a1-493b-43ab-b236-0aa3e6d24cfc.png">
 
+## [TF-IDF Vectorizer | Feature Extraction Techniques | NLP](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+TF-IDF stands for Term Frequency(TF)-Inverse Document Frequency(IDF). It highlights a specific issue that might not be too frequent in our corpus but holds great importance. The TF–IFD value increases proportionally to the number of times a word appears in the document and decreases with the number of documents in the corpus that contain the word. It is composed of 2 sub-parts, which are: Term Frequency (TF) and Inverse Document Frequency (IDF)
