@@ -164,3 +164,22 @@ The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning
 
 ## [TF-IDF Vectorizer | Feature Extraction Techniques | NLP](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 TF-IDF stands for Term Frequency(TF)-Inverse Document Frequency(IDF). It highlights a specific issue that might not be too frequent in our corpus but holds great importance. The TF–IFD value increases proportionally to the number of times a word appears in the document and decreases with the number of documents in the corpus that contain the word. It is composed of 2 sub-parts, which are: Term Frequency (TF) and Inverse Document Frequency (IDF)
+
+
+## [Naive Bayes Algorithm](https://scikit-learn.org/stable/modules/naive_bayes.html)
+Applications of Naive Bayes Algorithms: 
+1. Real-time Prediction
+2. Recommendation System
+3. Text classification/ Spam Filtering/ Sentiment Analysis:
+4. Multi-class Prediction:
+
+Scikit learns (Python Machine Learning library) will help here to build a Naive Bayes model in Python. There are three types of Naive Bayes model under the sci-kit learn library:
+
+#### Gaussian: 
+  It is used in classification and it assumes that features follow a normal distribution.
+
+#### Multinomial:
+It is used for discrete counts. For example, let’s say,  we have a text classification problem. Here we can consider Bernoulli trials which is one step further and instead of “word occurring in the document”, we have “count how often word occurs in the document”, you can think of it as “number of times outcome number x_i is observed over the n trials”.
+
+#### Bernoulli: 
+The binomial model is useful if your feature vectors are binary (i.e. zeros and ones). One application would be text classification with a ‘bag of words’ model where the 1s & 0s are “word occurs in the document” and “word does not occur in the document” respectively.
