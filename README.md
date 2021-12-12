@@ -184,11 +184,11 @@ It is used for discrete counts. For example, let’s say,  we have a text classi
 #### Bernoulli: 
 The binomial model is useful if your feature vectors are binary (i.e. zeros and ones). One application would be text classification with a ‘bag of words’ model where the 1s & 0s are “word occurs in the document” and “word does not occur in the document” respectively.
 
-#### Apriori Algorithm in Data Mining:
+## Apriori Algorithm in Data Mining:
 <img width="524" alt="1" src="https://user-images.githubusercontent.com/68488154/145719561-4856a936-1db5-4bf3-a3c4-e05c12798b46.png">
 
 
-#### Feature Scaling Techniques in Machine & Deep Learning:
+## Feature Scaling Techniques in Machine & Deep Learning:
 1. What is Feature Scaling? 
 Feature scaling is a method used to normalize the range of independent variables or features of data. In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.
 
@@ -202,3 +202,4 @@ Example: If an algorithm is not using a feature scaling method then it can consi
 4. Min-Max Normalization: This technique re-scales a feature or observation value with a distribution value between 0 and 1.
 
 5. Standardization: It is a very effective technique which re-scales a feature value so that it has distribution with 0 mean value and variance equals to 1.
+<img width="500" alt="Screenshot 2021-12-12 222125" src="https://user-images.githubusercontent.com/68488154/145720520-89b0ce93-7de1-4b4d-8b3d-cc90ca60daaa.png">
