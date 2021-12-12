@@ -190,9 +190,11 @@ The binomial model is useful if your feature vectors are binary (i.e. zeros and 
 
 ## Feature Scaling Techniques in Machine & Deep Learning:
 1. What is Feature Scaling? 
+
 Feature scaling is a method used to normalize the range of independent variables or features of data. In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.
 
 2. Which machine learning algorithms require feature scaling?
+
 The Machine Learning algorithms that require the feature scaling are mostly KNN (K-Nearest Neighbours), Neural Networks, Linear Regression, and Logistic Regression.
 
 3. Feature Scaling is a technique to standardize the independent features present in the data in a fixed range. It is performed during the data pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
