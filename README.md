@@ -183,3 +183,6 @@ It is used for discrete counts. For example, let’s say,  we have a text classi
 
 #### Bernoulli: 
 The binomial model is useful if your feature vectors are binary (i.e. zeros and ones). One application would be text classification with a ‘bag of words’ model where the 1s & 0s are “word occurs in the document” and “word does not occur in the document” respectively.
+
+#### Apriori Algorithm in Data Mining:
+<img width="524" alt="1" src="https://user-images.githubusercontent.com/68488154/145719561-4856a936-1db5-4bf3-a3c4-e05c12798b46.png">
