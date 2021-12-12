@@ -186,3 +186,19 @@ The binomial model is useful if your feature vectors are binary (i.e. zeros and 
 
 #### Apriori Algorithm in Data Mining:
 <img width="524" alt="1" src="https://user-images.githubusercontent.com/68488154/145719561-4856a936-1db5-4bf3-a3c4-e05c12798b46.png">
+
+
+#### Feature Scaling Techniques in Machine & Deep Learning:
+1. What is Feature Scaling? 
+Feature scaling is a method used to normalize the range of independent variables or features of data. In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.
+
+2. Which machine learning algorithms require feature scaling?
+The Machine Learning algorithms that require the feature scaling are mostly KNN (K-Nearest Neighbours), Neural Networks, Linear Regression, and Logistic Regression.
+
+3. Feature Scaling is a technique to standardize the independent features present in the data in a fixed range. It is performed during the data pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
+
+Example: If an algorithm is not using a feature scaling method then it can consider the value 100 meters to be greater than 5 km but that’s actually not true and in this case, the algorithm will give wrong predictions. So, we use Feature Scaling to bring all values to the same magnitudes and thus, tackle this issue.
+
+4. Min-Max Normalization: This technique re-scales a feature or observation value with a distribution value between 0 and 1.
+
+5. Standardization: It is a very effective technique which re-scales a feature value so that it has distribution with 0 mean value and variance equals to 1.
