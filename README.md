@@ -205,3 +205,7 @@ Example: If an algorithm is not using a feature scaling method then it can consi
 
 5. Standardization: It is a very effective technique which re-scales a feature value so that it has distribution with 0 mean value and variance equals to 1.
 <img width="500" alt="Screenshot 2021-12-12 222125" src="https://user-images.githubusercontent.com/68488154/145720520-89b0ce93-7de1-4b4d-8b3d-cc90ca60daaa.png">
+
+
+### Classification report:
+<img width="341" alt="Screenshot 2021-12-13 112013" src="https://user-images.githubusercontent.com/68488154/145756956-071ebb77-2de9-4b57-bf8e-80a9a19659a9.png">
